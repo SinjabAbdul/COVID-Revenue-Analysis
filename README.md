@@ -1,0 +1,4 @@
+# COVID-Revenue-Analysis
+Our project wants to explore if the increase in the number of COVID-19 cases has an impact on the number of subscribers of the listed streaming platforms: Netflix, Hulu.
+We decided to make the time period between 2019 and 2021, because given the relative lack of coronavirus cases in the US in 2019, it can be deemed as the “Pre-COVID” period, whereas the subsequent years - 2020 and 2021 - can be considered as during COVID given the increase in number of positive cases.
+We decided to use the number of coronavirus cases because the number of cases is a measurement of the severity of the coronavirus in the US . Consequently, the more severe the coronavirus the stricter the policies for a contagious disease that has caused this pandemic. Most of the policies - Lockdown policies - force people to stay at home, which means they’re likely to indulge in indoor leisure activities such as watching movies or TV shows found on streaming platforms.
